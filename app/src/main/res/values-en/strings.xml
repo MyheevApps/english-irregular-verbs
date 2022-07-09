@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IRVE - Английские неправильные глаголы.(free)</string>
+    <string name="app_name2">IRVE</string>
+    <string name="title_search">Search</string>
+    <string name="title_test">Test</string>
+    <string name="title_settings">Settings</string>
+    <string name="program">About</string>
+    <string name="elementary">Elementary</string>
+    <string name="pre_inter">Pre-intermediate</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="upper_inter">Upper-intermediate</string>
+    <string name="advanced">Advanced</string>
+    <string name="proficiency">Proficiency</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="message">Message</string>
+    <string name="version_number">2.1</string>
+    <string name="version">Version</string>
+    <string name="score">Score</string>
+    <string name="back">Main</string>
+    <string name="deliteAds">Remove ads</string>
+    <string name="input_verb">Input verb</string>
+    <string name="support">Support</string>
+    <string name="i_like">I like</string>
+    <string name="write_us">Write us</string>
+    <string name="about">About</string>
+</resources>

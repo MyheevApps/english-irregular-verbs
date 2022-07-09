@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">IRVE - Английские неправильные глаголы.(free)</string>
+    <string name="app_name2">IRVE</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_test">Тесты</string>
+    <string name="title_settings">Настройки</string>
+    <string name="program">О программе</string>
+
+    <string name="elementary">Elementary</string>
+    <string name="pre_inter">Pre-intermediate</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="upper_inter">Upper-intermediate</string>
+    <string name="advanced">Advanced</string>
+    <string name="proficiency">Proficiency</string>
+
+    <string name="send">Отправить</string>
+    <string name="name">Имя</string>
+    <string name="message">Сообщение</string>
+
+    <string name="version_number">2.1</string>
+    <string name="version">Версия</string>
+    <string name="score">СЧЁТ</string>
+    <string name="back">На главную</string>
+    <string name="deliteAds">Убрать рекламу</string>
+    <string name="input_verb">Введите глагол</string>
+    <string name="support">Поддержка</string>
+    <string name="i_like">Мне нравится</string>
+    <string name="write_us">Напишите нам</string>
+    <string name="about">О приложении</string>
+
+</resources>
