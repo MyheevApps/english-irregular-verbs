@@ -1,17 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/Gray"
     android:orientation="vertical">
 
-    <ListView
-        android:id="@+id/lvLevels"
+    <Button
+        android:id="@+id/btn_elementary"
         android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="10dp"
         android:layout_marginTop="10dp"
-        android:layout_height="match_parent"
-        android:divider="@null"
-        android:layout_marginBottom="55dp"/>
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/fields"
+        android:text="@string/elementary" />
+
+    <Button
+        android:id="@+id/btn_pre_intermediate"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/fields"
+        android:text="@string/pre_inter" />
+
+    <Button
+        android:id="@+id/btn_intermediate"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/fields"
+        android:text="@string/intermediate" />
+
+    <Button
+        android:id="@+id/btn_upper_intermediate"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/fields"
+        android:text="@string/upper_inter" />
+
+    <Button
+        android:id="@+id/btn_advanced"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/fields"
+        android:text="@string/advanced" />
+
+    <Button
+        android:id="@+id/btn_proficiency"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/fields"
+        android:text="@string/proficiency" />
+
+    <Button
+        android:id="@+id/btn_marathon"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/fields"
+        android:text="@string/marathon" />
 
 </LinearLayout>
